@@ -1,3 +1,3 @@
 # 🎭 Prospero Labs
 
-[Prospero](https://prosperoapp.com/) is resource management software for theatrical production teams. We're a team of theater artists and engineers. We help bring theater to life, faster and easier than ever.
+[Prospero](https://prosperoapp.com/) is resource management software for the stage. We're a team of artists and engineers. We strengthen performing arts organizations through technological innovation.
